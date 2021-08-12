@@ -1,0 +1,10 @@
+Hi,
+this is another file
+with a different text
+from the one
+that you can find
+in firstFile.
+I'm still lazy
+and still haven't
+found
+Lorem ipsum.
