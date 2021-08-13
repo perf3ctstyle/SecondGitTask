@@ -1,10 +1,10 @@
-Hello
-This is a simple
+Goodbye
+This is a hard
 text
 that I have to come up with
 because I'm too lazy
 to visit Google
 and find Lorem
 Ipsum
-there
-That's it.
+here
+and that's not it.

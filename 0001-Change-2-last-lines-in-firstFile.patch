@@ -1,0 +1,24 @@
+From f08ed936b345b48dfd8a2aa1c776872cd3ef0e36 Mon Sep 17 00:00:00 2001
+From: nikitatorop <torop.nikita1@gmail.com>
+Date: Thu, 12 Aug 2021 14:34:36 +0300
+Subject: [PATCH] Change 2 last lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0f1819f..f6d428e 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ because I'm too lazy
+ to visit Google
+ and find Lorem
+ Ipsum
+-there
+-That's it.
++here
++and that's not it.
+-- 
+2.23.0.windows.1
+
