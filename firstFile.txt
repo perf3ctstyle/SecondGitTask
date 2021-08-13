@@ -1,5 +1,5 @@
-Goodbye
-This is a hard
+Goodbye, change line 1
+This is a hard, change line 2
 text
 that I have to come up with
 because I'm too lazy
